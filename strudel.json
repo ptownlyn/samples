@@ -1,0 +1,13 @@
+{
+  "_base": "https://raw.githubusercontent.com/ptownlyn/samples/main/",
+  "breaks": [
+    "breaks/break_EFX_Loop_130bpm.wav",
+    "breaks/filter_snare_build_130bpm.wav",
+    "breaks/snare_build_130bpm.wav",
+    "breaks/space_snare_build_130bpm.wav"
+  ],
+  "vocal": [
+    "vocal/vocal_loop_Cmin_130bpm.wav",
+    "vocal/vocal_loop_break_Cmin_130bpm.wav"
+  ]
+}
