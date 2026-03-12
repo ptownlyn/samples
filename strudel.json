@@ -8,6 +8,11 @@
   ],
   "vocal": [
     "vocal/vocal_loop_Cmin_130bpm.wav",
-    "vocal/vocal_loop_break_Cmin_130bpm.wav"
+    "vocal/vocal_loop_break_Cmin_130bpm.wav",
+    "vocal/16vocal_loop_break_Cmin_130bpm.wav",
+    "vocal/16vocal_loop_Cmin_130bpm.wav",
+    "vocal/NT_Dm_122_ForYou_Chorus_Harmony_2__Dry_.wav",
+    "vocal/VOX_SDH_122_vocal_adlib_smooth_fall_Dm.wav",
+    "vocal/VOX_SDH_122_vocal_phrase_falling_in_love_Dm.wav"
   ]
 }
