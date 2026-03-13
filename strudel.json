@@ -13,7 +13,8 @@
     "kicks/edm/ff_dph_kick_one_shot_grounded.wav"
   ],
   "pads": [
-    "pads/edm/ff_dph_124_synth_loop_awe_Abmin.wav"
+    "pads/edm/ff_dph_124_synth_loop_awe_Abmin.wav",
+    "ff_dph_124_synth_loop_awe_Gmin.wav"
   ],
   "snares": [
     "snares/edm/909snr.wav",
