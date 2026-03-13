@@ -6,13 +6,31 @@
     "breaks/snare_build_130bpm.wav",
     "breaks/space_snare_build_130bpm.wav"
   ],
+  "kicks": [
+    "kicks/edm/MIXREADY_kick_club_house_analog.wav",
+    "kicks/edm/MIXREADY_kick_club_house_minimal.wav",
+    "kicks/edm/ff_dph_kick_one_shot_celtic.wav",
+    "kicks/edm/ff_dph_kick_one_shot_grounded.wav"
+  ],
+  "pads": [
+    "pads/edm/ff_dph_124_synth_loop_awe_Abmin.wav"
+  ],
+  "snares": [
+    "snares/edm/909snr.wav",
+    "snares/edm/OLIVER_snare_super_tight.wav",
+    "snares/edm/RPN_909_Reso_Snare_Spacey_1.wav",
+    "snares/edm/Snare_Hard.wav",
+    "snares/edm/ff_dph_snare_one_shot_cherish.wav",
+    "snares/edm/ff_dph_snare_one_shot_grow.wav",
+    "snares/edm/ff_dph_snare_one_shot_lifted.wav"
+  ],
   "vocal": [
-    "vocal/vocal_loop_Cmin_130bpm.wav",
-    "vocal/vocal_loop_break_Cmin_130bpm.wav",
-    "vocal/16vocal_loop_break_Cmin_130bpm.wav",
-    "vocal/16vocal_loop_Cmin_130bpm.wav",
+    "vocal/VOX_SDH_122_vocal_phrase_falling_in_love_Dm.wav",
     "vocal/NT_Dm_122_ForYou_Chorus_Harmony_2__Dry_.wav",
+    "vocal/vocal_loop_Cmin_130bpm.wav",
+    "vocal/16vocal_loop_Cmin_130bpm.wav",
+    "vocal/vocal_loop_break_Cmin_130bpm.wav",
     "vocal/VOX_SDH_122_vocal_adlib_smooth_fall_Dm.wav",
-    "vocal/VOX_SDH_122_vocal_phrase_falling_in_love_Dm.wav"
+    "vocal/16vocal_loop_break_Cmin_130bpm.wav"
   ]
 }
